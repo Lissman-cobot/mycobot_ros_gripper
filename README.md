@@ -1,4 +1,3 @@
-Email l.issman@outlook.be to run the pick-and-place simulation
 
 ## License
 
